@@ -38,3 +38,6 @@ Developed an interactive view allowing users to filter data and view summary sta
 ## Live Demo
 
 [View the app on Render](https://car-ads-dashboard.onrender.com)
+
+<img width="1884" height="863" alt="Screenshot 2025-10-20 at 2 18 05 PM" src="https://github.com/user-attachments/assets/993d282e-df45-4ff6-9c11-58ba430f3656" />
+<img width="1836" height="851" alt="Screenshot 2025-10-20 at 2 18 39 PM" src="https://github.com/user-attachments/assets/a6587c2c-1e55-4d13-83f8-9e61232ebd24" />
